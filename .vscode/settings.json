@@ -3,6 +3,7 @@
     "files.associations": {
         "cerrno": "cpp",
         "linmath.h": "c",
-        "random": "c"
+        "random": "c",
+        "qcoreapplication": "cpp"
     }
 }
