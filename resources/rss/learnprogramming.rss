@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/">
+    <category term="learnprogramming" label="r/learnprogramming"/>
+    <updated>2021-04-03T15:22:02+00:00</updated>
+    <icon>https://www.redditstatic.com/icon.png/</icon>
+    <id>/r/learnprogramming.rss</id>
+    <link rel="self" href="https://www.reddit.com/r/learnprogramming.rss" type="application/atom+xml" />
+    <link rel="alternate" href="https://www.reddit.com/r/learnprogramming" type="text/html" />
+    <subtitle>A subreddit for all questions related to programming in any language.</subtitle>
+    <title>learn programming</title>
+    <entry>
+        <author>
+            <name>/u/michael0x2a</name>
+            <uri>https://www.reddit.com/user/michael0x2a</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;Welcome to &lt;a href=&quot;/r/learnprogramming&quot;&gt;/r/learnprogramming&lt;/a&gt;!&lt;/h1&gt; &lt;h2&gt;Quick start:&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;New to programming? Not sure how to start learning? See &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started&quot;&gt;FAQ - Getting started&lt;/a&gt;.&lt;/li&gt; &lt;li&gt;Have a question? Our &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/faq&quot;&gt;FAQ&lt;/a&gt; covers many common questions; check that first. Also try searching old posts, either &lt;a href=&quot;https://www.google.com/#q=site:reddit.com%2Fr%2Flearnprogramming&quot;&gt;via google&lt;/a&gt; or via reddit&amp;#39;s search.&lt;/li&gt; &lt;li&gt;Your question isn&amp;#39;t answered in the FAQ? Please read the following:&lt;/li&gt; &lt;/ol&gt; &lt;h2&gt;Getting debugging help&lt;/h2&gt; &lt;p&gt;If your question is about code, make sure it&amp;#39;s &lt;strong&gt;specific&lt;/strong&gt; and &lt;strong&gt;provides all information up-front&lt;/strong&gt;. Here&amp;#39;s a checklist of what to include:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;A &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/index#wiki_writing_a_good_title&quot;&gt;&lt;strong&gt;concise but descriptive title&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt; &lt;li&gt;A &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/index#wiki_writing_a_good_description_of_the_problem&quot;&gt;&lt;strong&gt;good description&lt;/strong&gt;&lt;/a&gt; of the problem.&lt;/li&gt; &lt;li&gt; A &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/index#wiki_posting_code&quot;&gt;&lt;strong&gt;minimal&lt;/strong&gt;, &lt;strong&gt;easily runnable&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/index#wiki_formatting_code&quot;&gt;&lt;strong&gt;well-formatted&lt;/strong&gt;&lt;/a&gt; program that demonstrates your problem.&lt;/li&gt; &lt;li&gt;The output you expected and what you got instead. If you got an error, include the &lt;strong&gt;full&lt;/strong&gt; error message.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Do your best to solve your problem before posting. The quality of the answers will be proportional to the amount of effort you put into your post. Note that title-only posts are automatically removed.&lt;/p&gt; &lt;p&gt;Also see &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/index#wiki_getting_debugging_help&quot;&gt;our full posting guidelines&lt;/a&gt; and the &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/about/rules&quot;&gt;subreddit rules&lt;/a&gt;. After you post a question, &lt;strong&gt;DO NOT&lt;/strong&gt; delete it!&lt;/p&gt; &lt;h2&gt;Asking conceptual questions&lt;/h2&gt; &lt;p&gt;Asking conceptual questions is ok, but please check &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/faq&quot;&gt;our FAQ&lt;/a&gt; and search older posts first.&lt;/p&gt; &lt;p&gt;If you plan on asking a question similar to one in the FAQ, explain what exactly the FAQ didn&amp;#39;t address and clarify what you&amp;#39;re looking for instead. See our full guidelines on &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/index#wiki_asking_conceptual_questions&quot;&gt;asking conceptual questions&lt;/a&gt; for more details.&lt;/p&gt; &lt;h2&gt;Subreddit rules&lt;/h2&gt; &lt;p&gt;Please read &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/about/rules&quot;&gt;our rules&lt;/a&gt; and &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/wiki/index#wiki_rules&quot;&gt;other policies&lt;/a&gt; before posting. If you see somebody breaking a rule, report it! Reports and PMs to the mod team are the quickest ways to bring issues to our attention.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/michael0x2a&quot;&gt; /u/michael0x2a &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/61oly8/new_read_me_first/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/61oly8/new_read_me_first/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_61oly8</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/61oly8/new_read_me_first/" />
+        <updated>2017-03-26T23:07:34+00:00</updated>
+        <published>2017-03-26T23:07:34+00:00</published>
+        <title>New? READ ME FIRST!</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/AutoModerator</name>
+            <uri>https://www.reddit.com/user/AutoModerator</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What have you been working on recently? Feel free to share updates on projects you&amp;#39;re working on, brag about any major milestones you&amp;#39;ve hit, grouse about a challenge you&amp;#39;ve ran into recently... Any sort of &amp;quot;progress report&amp;quot; is fair game!&lt;/p&gt; &lt;p&gt;A few requests:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;If possible, include a link to your source code when sharing a project update. That way, others can learn from your work!&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;If you&amp;#39;ve shared something, try commenting on at least one other update -- ask a question, give feedback, compliment something cool... We encourage discussion!&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;If you don&amp;#39;t consider yourself to be a beginner, include about how many years of experience you have.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;This thread will remained stickied over the weekend. &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/search?q=%22What+have+you+been+working+on+recently%3F%22&amp;amp;sort=new&amp;amp;restrict_sr=on&quot;&gt;Link to past threads here&lt;/a&gt;.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AutoModerator&quot;&gt; /u/AutoModerator &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj0wvg/what_have_you_been_working_on_recently_april_03/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj0wvg/what_have_you_been_working_on_recently_april_03/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj0wvg</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj0wvg/what_have_you_been_working_on_recently_april_03/" />
+        <updated>2021-04-03T04:00:19+00:00</updated>
+        <published>2021-04-03T04:00:19+00:00</published>
+        <title>What have you been working on recently? [April 03, 2021]</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Devious_Beast</name>
+            <uri>https://www.reddit.com/user/Devious_Beast</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://codeinplace.stanford.edu/&quot;&gt;https://codeinplace.stanford.edu/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hey guys,&lt;/p&gt; &lt;p&gt;If you&amp;#39;re interested Stanford University opened applications to their attempt at online learning of the CS 106A “Programming Methodology&amp;quot; course they offer. Applications are open from the 2nd of April to the 8th of April. It&amp;#39;s a 5 week course. You can check out more here: &lt;a href=&quot;https://news.stanford.edu/2021/03/22/famous-stanford-coding-course-free-online/&quot;&gt;https://news.stanford.edu/2021/03/22/famous-stanford-coding-course-free-online/&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Devious_Beast&quot;&gt; /u/Devious_Beast &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5aag/stanford_university_now_offering_a_free_course_on/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5aag/stanford_university_now_offering_a_free_course_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj5aag</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj5aag/stanford_university_now_offering_a_free_course_on/" />
+        <updated>2021-04-03T09:33:16+00:00</updated>
+        <published>2021-04-03T09:33:16+00:00</published>
+        <title>Stanford University now offering a free course on Python</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/RoughCalligrapher906</name>
+            <uri>https://www.reddit.com/user/RoughCalligrapher906</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Made a video while back on AutoHotkey which I use to automate a ton of my job. Shh dont tell my boss lol!&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;AutoHotkey is great lang. for automating pretty much anything from work to gaming.&lt;/p&gt; &lt;p&gt;I mostly use it to automate outlook and chrome for our company site with inputting data way faste. hope it can help you also.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Au5BFtpb65o&amp;amp;t=1s&quot;&gt;https://www.youtube.com/watch?v=Au5BFtpb65o&amp;amp;t=1s&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;EDIT: and incase someone wants a macro creator vs doing them selfs&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=P5oRPr2oeBk&amp;amp;t=8s&quot;&gt;https://www.youtube.com/watch?v=P5oRPr2oeBk&amp;amp;t=8s&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/RoughCalligrapher906&quot;&gt; /u/RoughCalligrapher906 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/milwqh/learn_autohotkey_to_automate_your_job/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/milwqh/learn_autohotkey_to_automate_your_job/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_milwqh</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/milwqh/learn_autohotkey_to_automate_your_job/" />
+        <updated>2021-04-02T14:50:53+00:00</updated>
+        <published>2021-04-02T14:50:53+00:00</published>
+        <title>Learn AutoHotkey to automate your job</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Blastadon2</name>
+            <uri>https://www.reddit.com/user/Blastadon2</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone!&lt;/p&gt; &lt;p&gt;After about 12 months of grinding away, I just signed an offer for an Associate Web Developer with a fairly sizable (albeit local) company.&lt;/p&gt; &lt;p&gt;I come from a Theatre Arts/Teaching background so it was ultimately a big shift. I&amp;#39;m incredibly nervous, but never been more excited either. My current job is incredibly stressful and not fulfilling in the slightest, and I&amp;#39;ll be getting about a 15k increase in salary with this job change.&lt;/p&gt; &lt;p&gt;Thank you so much to this community for all its help throughout the process. If enough interest is garnered I may post a quick timeline of my learning and how I got here, but ultimately just like everyone else says - it was a lot of hard work and a bit of luck.&lt;/p&gt; &lt;p&gt;Now, off to do my happy dance!&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;EDIT 1&lt;/p&gt; &lt;p&gt;Thanks for the silver! And I&amp;#39;ll absolutely come back tonight and edit this post with an actual timeline of learning, and maybe some tips I&amp;#39;ve picked up along the way. There was a lot of sweat and tears, so if you are in that boat please know that it does come to an end!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Blastadon2&quot;&gt; /u/Blastadon2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mippzy/just_signed_an_offer_for_my_first_web_dev_job/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mippzy/just_signed_an_offer_for_my_first_web_dev_job/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mippzy</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mippzy/just_signed_an_offer_for_my_first_web_dev_job/" />
+        <updated>2021-04-02T17:59:11+00:00</updated>
+        <published>2021-04-02T17:59:11+00:00</published>
+        <title>Just signed an offer for my first Web Dev job!</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ZartiBartiMcSchleck</name>
+            <uri>https://www.reddit.com/user/ZartiBartiMcSchleck</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Background: Working in a small company with highly skilled colleagues - I feel competent in programming stuff, but I lack many skills such as debugging network issues, git beyond &amp;quot;clone, add ., commit, push.&amp;quot;, debugging issues related to programming environment (i.e. some library is missing). Time is quite precious for us, and any work I can do is worth quite a lot. (There is so much too learn and I am grateful for that opportunity!) So anyways...&lt;/p&gt; &lt;p&gt;Yesterday I finally had a breakthrough that demystified much of git to me! These kinds of revelation-moment are usually the product of much time spend on learning something, but I still wanted to share the process of what I have done.&lt;/p&gt; &lt;hr/&gt; &lt;p&gt;&lt;strong&gt;What did I do?&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;I wanted to learn what a &lt;code&gt;rebase&lt;/code&gt; does.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Create a new folder and create a new git repo.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Create two files with some text in them: &lt;code&gt;main.code&lt;/code&gt; and &lt;code&gt;lib.code&lt;/code&gt; + commit them.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Create two branches: &amp;quot;potionbrewing&amp;quot; and &amp;quot;rocketflying&amp;quot;, in each do some modifications and commits.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;View the result with the tool &amp;quot;tig&amp;quot;.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Rebase one branch onto the other (with a tab open that tells me how to do it)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;That was is basically! I played around a bit more, with more branches, but that was mainly it. Not much, but it felt sooo good to finally understand what it going on.&lt;/p&gt; &lt;hr/&gt; &lt;p&gt;&lt;strong&gt;What was helpfull about this process?&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Focus on git: I reduced the &amp;quot;coding&amp;quot; to a minimum. With each commit, I added/changed 1-2 lines. That way, I spent most of my time on learning git.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Get visual feedback with tig (gitk is another good alternative): Felt pretty satisfying and made sure that I did the right things.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Focus on one new thing at the time: In this case, on &lt;code&gt;rebase&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;hr/&gt; &lt;p&gt;That&amp;#39;s it, I hope I could inspire at least someone to also just get their hands dirty instead of reading tutorial #32 ;) Next up for me: Fast-forward, getting competent in merging scenarios (Also important: &amp;quot;how to provoke conflicts?&amp;quot; by merging, by checkouts, by popping stash, ...)&lt;/p&gt; &lt;p&gt;Happy hacking!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ZartiBartiMcSchleck&quot;&gt; /u/ZartiBartiMcSchleck &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj6ka5/success_short_story_finally_learning_enough_git/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj6ka5/success_short_story_finally_learning_enough_git/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj6ka5</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj6ka5/success_short_story_finally_learning_enough_git/" />
+        <updated>2021-04-03T11:15:40+00:00</updated>
+        <published>2021-04-03T11:15:40+00:00</published>
+        <title>[Success short story] Finally learning enough git to become dangerous in an professional environment!</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/GodoftheGeeks</name>
+            <uri>https://www.reddit.com/user/GodoftheGeeks</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I&amp;#39;ve got an interview coming up on the 12th with Facebook for an Android engineer position (I&amp;#39;ve done some Android work in years past but nothing recent yet they reached out to me to see if I would be interested in applying) and I went on their recruiting portal to work on the practice coding problems they give and I&amp;#39;ve never felt this stupid in my life. The problems all revolve around algorithms and data structures which I have no real background in and I&amp;#39;m lucky if I can even understand the questions because I can&amp;#39;t with most of them. I went for a CS degree in the mid 2000s before having to drop out but never had the class for learning that stuff and now I feel completely overwhelmed and clueless when being faced with it. I&amp;#39;ve been doing some dev work off and on over the years and only last year did I start working to make it my career and these coding tests make me feel like I know absolutely nothing. How they want me to be able to do 2 of them in like 30 minutes I have no idea! I have done coding questions for interviews from companies ranging from Microsoft to Dell and they were child&amp;#39;s play compared to this stuff! I&amp;#39;m pretty sure you need to be Einstein to figure this stuff out! For the first time since I dropped out, I feel like I actually need to go back and finish getting my degree or at least take that class.&lt;/p&gt; &lt;p&gt;If anybody thinks they can talk me out of texting the recruiter I&amp;#39;ve been dealing with and bowing out and apologizing for wasting their time, give it your best shot!&lt;/p&gt; &lt;p&gt;TLDR: Facebook coding tests are impossibly hard and I don&amp;#39;t even feel smart enough to be a janitor there.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/GodoftheGeeks&quot;&gt; /u/GodoftheGeeks &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/miycqt/i_have_an_interview_with_facebook_and_now_i/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/miycqt/i_have_an_interview_with_facebook_and_now_i/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_miycqt</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/miycqt/i_have_an_interview_with_facebook_and_now_i/" />
+        <updated>2021-04-03T01:18:58+00:00</updated>
+        <published>2021-04-03T01:18:58+00:00</published>
+        <title>I have an interview with Facebook and now I regret not finishing my CS degree</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Affectionate-Peach96</name>
+            <uri>https://www.reddit.com/user/Affectionate-Peach96</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know for a fact I am not a genius. But besides that, its hard for me to tell if I am smart enough.&lt;/p&gt; &lt;p&gt;I have been working as frontend developer for 2.5 years at couple places, I am self taught. Initially got a job couple months after picking up some javascript , html, css. Now I got laid off after finding better payed position for failing to resolve several issues on time.&lt;/p&gt; &lt;p&gt;I love programming but I am afraid that I am not as smart as the average programmer. I did unofficial IQ tests, my IQ is 115 on average, however I also got way higher numbers due to unreliability of those tests. Not lower but I cannot be sure what is the real number.&lt;/p&gt; &lt;p&gt;I do not have high ambitions like to join google or something. Averaged payed position would satisfy me and I am willing and happy to keep on the daily grind and get better, but I have soooo much anxiety and self doubt that I am not good enough / smart enough for this profession.&lt;/p&gt; &lt;p&gt;How can I know I am not cut for it ? When do I know that practice won&amp;#39;t make me employable for long term and I just don&amp;#39;t have the intelligence or whatever else needed ?&lt;/p&gt; &lt;p&gt;Would you imagine hypothetically someone with average to little bellow average intelligence holding a job in a not so complex field, considering he has passion for it ?&lt;/p&gt; &lt;p&gt;I am not sure If I provided enough information but I would like brutal honesty if possible :D . I cannot give it to myself and I wont get any younger either. Im afraid I will feed myself lies until I am past middle age with no other experience and no options in programming.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Affectionate-Peach96&quot;&gt; /u/Affectionate-Peach96 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj9ymf/i_love_programming_but_i_am_not_that_smart/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj9ymf/i_love_programming_but_i_am_not_that_smart/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj9ymf</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj9ymf/i_love_programming_but_i_am_not_that_smart/" />
+        <updated>2021-04-03T14:49:47+00:00</updated>
+        <published>2021-04-03T14:49:47+00:00</published>
+        <title>I love programming but I am not that smart</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Fatamos</name>
+            <uri>https://www.reddit.com/user/Fatamos</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For a couple of years, I&amp;#39;ve been using Github only for my personal files. I recently started working on Python and found out that there are just hundreds of projects, exercises and simple projects. To be clear, I always knew that there are open projects on Github but never dig into them, nor I explored any of the projects. Maybe I was too afraid. It just seemed like everything that others were already working on was too complicated for me. That mindset is just wrong. Don&amp;#39;t be afraid of analysing other projects or code. Comment on projects, report a bug or an issue, ask a question. It&amp;#39;s really worth it! Don&amp;#39;t be lazy like I do.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;TLDR: I&amp;#39;ve been using GitHub for years without seeing the whole potential of this platform.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Fatamos&quot;&gt; /u/Fatamos &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj8g46/i_was_so_blind_and_lazy_the_whole_time/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj8g46/i_was_so_blind_and_lazy_the_whole_time/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj8g46</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj8g46/i_was_so_blind_and_lazy_the_whole_time/" />
+        <updated>2021-04-03T13:24:58+00:00</updated>
+        <published>2021-04-03T13:24:58+00:00</published>
+        <title>I was so blind and lazy the whole time</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/samboylansajous</name>
+            <uri>https://www.reddit.com/user/samboylansajous</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In this course I will teach you 6 different live trading bots including:&lt;/p&gt; &lt;p&gt;· A Bitcoin Reddit Sentiment Analysis Trading Bot&lt;/p&gt; &lt;p&gt;· A Doge Reddit Sentiment Analysis Trading Bot with Technical Indicators&lt;/p&gt; &lt;p&gt;· A Bitcoin Twitter Sentiment Analysis Trading Bot using state of the art Natural Language Processing Algorithm (BERT) where we create our own dataset with Bullish/Bearish labels and use it live&lt;/p&gt; &lt;p&gt;· A Gold Twitter Sentiment Analysis Trading Bot where we web scrape CNN’s Fear &amp;amp; Greed Index and implement it in live trading strategy&lt;/p&gt; &lt;p&gt;· A Tesla News Headline Sentiment Analysis Trading Bot&lt;/p&gt; &lt;p&gt;· A NIO News Headline Sentiment Analysis Trading Bot&lt;/p&gt; &lt;p&gt;Here is the link :): &lt;a href=&quot;https://www.udemy.com/course/sentiment-trading-python/?couponCode=DCAABDC4D72BB41B15B3&quot;&gt;https://www.udemy.com/course/sentiment-trading-python/?couponCode=DCAABDC4D72BB41B15B3&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/samboylansajous&quot;&gt; /u/samboylansajous &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mjaayf/hello_world_i_built_a_course_on_udemy_where_i/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mjaayf/hello_world_i_built_a_course_on_udemy_where_i/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mjaayf</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mjaayf/hello_world_i_built_a_course_on_udemy_where_i/" />
+        <updated>2021-04-03T15:07:46+00:00</updated>
+        <published>2021-04-03T15:07:46+00:00</published>
+        <title>Hello World!!! I built a Course on Udemy where I teach 6 live cutting-edge Sentiment Analysis Trading Algorithms used on Wall Street. All you need to know is Python!! (FREE UNTIL 4/5/2021)</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/sobakablevanula</name>
+            <uri>https://www.reddit.com/user/sobakablevanula</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So, when i start with any book, I don&amp;#39;t really see the point with exercises as they do not transmit into some real code. So, I&amp;#39;m always stuck with basics and can&amp;#39;t think of any projects myself. Is there post or website that has real projects with code included? if I just search project ideas on google people usually don&amp;#39;t recommend anything useful, just &amp;quot;think of any fun project to do&amp;quot;. I&amp;#39;m not that fun and creative and shit. c++ by the way.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sobakablevanula&quot;&gt; /u/sobakablevanula &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mja6pc/projects_to_dohelp/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mja6pc/projects_to_dohelp/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mja6pc</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mja6pc/projects_to_dohelp/" />
+        <updated>2021-04-03T15:01:43+00:00</updated>
+        <published>2021-04-03T15:01:43+00:00</published>
+        <title>Projects to do(help)</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/shree_new</name>
+            <uri>https://www.reddit.com/user/shree_new</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey...&lt;/p&gt; &lt;p&gt;I have made a premitive messenger using nodejs. It remembers client with the help of an unique id. I have used a npm package to generate unique ids. I have stored those ids in a mongodb database. When a clients open homepage an unique id is generated and stored into the database. The user has the option to paste another id and use it message other person that is online with same id.&lt;/p&gt; &lt;p&gt;I could have used sockets but I still haven&amp;#39;t learned socket concept. So the client pings server with its id every second.&lt;/p&gt; &lt;p&gt;So, we would have two clients with same id. One is sender and other receiver. This info is also pinged every second. The server checks if that id (sender or receiver) has andy pending message and sends it in response or it sends null string.&lt;/p&gt; &lt;p&gt;I have used global array to store messages and after sending them I overwrite those arrays with empty arrays.&lt;/p&gt; &lt;p&gt;Is it a good idea to store data such as messages in global variables?&lt;/p&gt; &lt;p&gt;What are the consiquences of pinging server every second to receive messages?&lt;/p&gt; &lt;p&gt;How messengers worked before web-sockets were added like old facebook messenger?&lt;/p&gt; &lt;p&gt;github: &lt;a href=&quot;https://github.com/shree-c/chattz&quot;&gt;https://github.com/shree-c/chattz&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/shree_new&quot;&gt; /u/shree_new &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj4a1s/i_have_tried_to_make_simple_chat_app_critique_my/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj4a1s/i_have_tried_to_make_simple_chat_app_critique_my/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj4a1s</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj4a1s/i_have_tried_to_make_simple_chat_app_critique_my/" />
+        <updated>2021-04-03T08:10:22+00:00</updated>
+        <published>2021-04-03T08:10:22+00:00</published>
+        <title>I have tried to make simple chat app, critique my design decisions please.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/unix21311</name>
+            <uri>https://www.reddit.com/user/unix21311</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There are some people in the &lt;a href=&quot;http://odin-lang.org/&quot;&gt;Odin&lt;/a&gt; community that says that the Rust&amp;#39;s ownership model slows your program down etc, whereas in &lt;a href=&quot;https://www.rust-lang.org/&quot;&gt;Rust&amp;#39;s&lt;/a&gt; community, people say that it is not true. On both sides they give me huge technical jargon which makes it difficult for me to understand and honestly I am kinda beginner in programming so I wouldn&amp;#39;t have a clue who is correct.&lt;/p&gt; &lt;p&gt;I was wondering if anyone believes that the Rust&amp;#39;s ownership model actually slows down the program?&lt;/p&gt; &lt;p&gt;&lt;em&gt;Disclaimer: This post is not intended to start a flame war between both languages!&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/unix21311&quot;&gt; /u/unix21311 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mja0rx/odin_vs_rust/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mja0rx/odin_vs_rust/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mja0rx</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mja0rx/odin_vs_rust/" />
+        <updated>2021-04-03T14:52:56+00:00</updated>
+        <published>2021-04-03T14:52:56+00:00</published>
+        <title>Odin vs Rust</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/yo_itbambi</name>
+            <uri>https://www.reddit.com/user/yo_itbambi</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am working on flask right now and building the backend that listens to certain HTTP endpoints and responds back to the client with data. Is this an example of building a REST API? The app that I am listens to HTTP end points like /registerForm for example, gets the form data, adds to the database, and responds back to client.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yo_itbambi&quot;&gt; /u/yo_itbambi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj4c2h/building_apis/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj4c2h/building_apis/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj4c2h</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj4c2h/building_apis/" />
+        <updated>2021-04-03T08:14:44+00:00</updated>
+        <published>2021-04-03T08:14:44+00:00</published>
+        <title>Building APIs</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Sixteen_Wings</name>
+            <uri>https://www.reddit.com/user/Sixteen_Wings</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A lil backround:&lt;/p&gt; &lt;p&gt;So I just learned programming, the basic stuff. Started with java to android studio and I didnt enjoy it. Switched to jaavscript, css, html for about 3 to 4 months, quite intrigued but not really my type so i moved on to python and I just love the simple syntax and with a little bit of research and learning the very basics for a month I stumbled upon &amp;quot;data structures&amp;quot; And I tried learning sql for a bit, 10 days and I think i wanna learn either data science or game development.&lt;/p&gt; &lt;p&gt;Tldr: I&amp;#39;ve been learning programming for less than a year and I tried python and I want to learn it. Is there any resources/videos/books you can recommend me to read/study? (data science, data structures, game development)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Sixteen_Wings&quot;&gt; /u/Sixteen_Wings &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5w6n/im_just_a_beginner_that_has_taken_an_interest_in/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5w6n/im_just_a_beginner_that_has_taken_an_interest_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj5w6n</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj5w6n/im_just_a_beginner_that_has_taken_an_interest_in/" />
+        <updated>2021-04-03T10:21:50+00:00</updated>
+        <published>2021-04-03T10:21:50+00:00</published>
+        <title>Im just a beginner that has taken an interest in something.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/BrokenSuperNintendo</name>
+            <uri>https://www.reddit.com/user/BrokenSuperNintendo</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi. I have a question and I&amp;#39;m not really sure if it belongs here but I don&amp;#39;t know where to put it. Hopefully someone here can help.&lt;/p&gt; &lt;p&gt;I want to teach my kids to program, but currently they are too young. The oldest will be 3 this year, the youngest is 1. I am VERY into video games, and the oldest is already showing an interest in them. My plan for the future was to teach them to program by trying to make a simple game together. There&amp;#39;s this great program called Pico 8 which uses Lua which is Avery simple language and I thought that would be good, but that&amp;#39;s probably many years down the road and there might be something better by then. I can&amp;#39;t even imagine what age would be good for that. 10?&lt;/p&gt; &lt;p&gt;Recently I stumbled across a product that I thought was very interesting. I&amp;#39;m a big fan of Mega Man, and it seems there is a book for teaching kids programming by having them make their own Mega Man game using the Scratch programming language. I don&amp;#39;t know much about scratch, but from what I understand it&amp;#39;s like a drag and drop interface to teach problem solving and basic programming concepts. I thought that this would be great and that with this we might be able to get started at a younger age like 7 or 8. Maybe even 6? (What do you think?)&lt;/p&gt; &lt;p&gt;But that&amp;#39;s still several years down the line. My kids are so young. If I were to buy it now, do you think it would still be useful in 5 years or do you think support for that version of scratch will be long gone and it would be impossible to get it running? Of course basic concepts like problem solving skills will never be obsolete, and that&amp;#39;s the purpose of Scratch in the first place, but I wonder if it would be a waste of my money to buy it and put it away. I&amp;#39;m also worried that if I wait then it won&amp;#39;t be available to buy in 5 years.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BrokenSuperNintendo&quot;&gt; /u/BrokenSuperNintendo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj8axq/a_question_about_programming_tutorials_for_kids/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj8axq/a_question_about_programming_tutorials_for_kids/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj8axq</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj8axq/a_question_about_programming_tutorials_for_kids/" />
+        <updated>2021-04-03T13:16:11+00:00</updated>
+        <published>2021-04-03T13:16:11+00:00</published>
+        <title>A question about programming tutorials for kids</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/wazabee</name>
+            <uri>https://www.reddit.com/user/wazabee</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;on Udemy, there is a python boot camp, mentioned in the title, that makes you do progressively more difficult projects everyday to master python. Its expensive, so im trying to look for alternatives that are either cheaper or free. Ive learned python in the past, but have had difficulty finding good resources that let me practice in a stepwise manner and master the individual concepts and methods of pythons. What would be a good place to go?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/wazabee&quot;&gt; /u/wazabee &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj0sjv/what_are_the_alternatives_to_the_100_days_of/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj0sjv/what_are_the_alternatives_to_the_100_days_of/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj0sjv</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj0sjv/what_are_the_alternatives_to_the_100_days_of/" />
+        <updated>2021-04-03T03:52:11+00:00</updated>
+        <published>2021-04-03T03:52:11+00:00</published>
+        <title>what are the alternatives to the &quot; 100 days of code-the complete python pro bootcamp&quot;?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/drakkath22</name>
+            <uri>https://www.reddit.com/user/drakkath22</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello there! I hope everyone is doing fine.&lt;/p&gt; &lt;p&gt;So I want to build a stock management system in the form of a desktop application, what are the languages that are used modernly to achieve that? A desktop application with a fairly modern UI. I am thinking Java but I believe Javafx is deprecated?&lt;/p&gt; &lt;p&gt;Any guidance please?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/drakkath22&quot;&gt; /u/drakkath22 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj7ewp/what_language_to_use_for_desktop_app_stock/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj7ewp/what_language_to_use_for_desktop_app_stock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj7ewp</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj7ewp/what_language_to_use_for_desktop_app_stock/" />
+        <updated>2021-04-03T12:18:21+00:00</updated>
+        <published>2021-04-03T12:18:21+00:00</published>
+        <title>What language to use for Desktop App (stock management)?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Accomplished_Bug6296</name>
+            <uri>https://www.reddit.com/user/Accomplished_Bug6296</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone! I have just recently gotten into coding and I love it! However, I was wondering what programming language/s should I learn in order to build a fully functional social media platform? I aspire to build one but I don’t know how. Please help!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Accomplished_Bug6296&quot;&gt; /u/Accomplished_Bug6296 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mja01d/what_programming_languages_should_i_learn_in/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mja01d/what_programming_languages_should_i_learn_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mja01d</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mja01d/what_programming_languages_should_i_learn_in/" />
+        <updated>2021-04-03T14:51:50+00:00</updated>
+        <published>2021-04-03T14:51:50+00:00</published>
+        <title>What programming language/s should I learn in order to build a fully functional social media platform?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/unix21311</name>
+            <uri>https://www.reddit.com/user/unix21311</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am thinking of creating my first taskbar that is similar to &lt;a href=&quot;https://polybar.github.io/&quot;&gt;polybar&lt;/a&gt; but for Wayland, Linux.&lt;/p&gt; &lt;p&gt;Is there a tutorial to learn low level programming and doing raw stuff or something to do anything interesting so I would know how to code this stuff up?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/unix21311&quot;&gt; /u/unix21311 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj9szn/is_there_a_place_where_i_can_learn_how_to_do_low/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj9szn/is_there_a_place_where_i_can_learn_how_to_do_low/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj9szn</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj9szn/is_there_a_place_where_i_can_learn_how_to_do_low/" />
+        <updated>2021-04-03T14:41:36+00:00</updated>
+        <published>2021-04-03T14:41:36+00:00</published>
+        <title>Is there a place where I can learn how to do low level system programming?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Abject_Ad6874</name>
+            <uri>https://www.reddit.com/user/Abject_Ad6874</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Is it possible to embed a YouTube video that may be infringing copyright. I want to add a video to a project page that I’m doing. I need this specific video. However, there is music on the video that may break these rules. Is there any workaround for this?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Abject_Ad6874&quot;&gt; /u/Abject_Ad6874 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj649w/embed_youtube_video_with_possible_copyright/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj649w/embed_youtube_video_with_possible_copyright/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj649w</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj649w/embed_youtube_video_with_possible_copyright/" />
+        <updated>2021-04-03T10:40:12+00:00</updated>
+        <published>2021-04-03T10:40:12+00:00</published>
+        <title>Embed YouTube video with possible copyright infringement</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Cowboys44rox</name>
+            <uri>https://www.reddit.com/user/Cowboys44rox</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone, I have an assignment where we read from a text file of covid 19 sequences. I have read in the first line as a string and now have to use a substring method to break down this line into groups of 3 characters that forms a codon sequence. I am having trouble visualizing which substring method to use to break this down? This is the first line of the file and every 3rd letter makes a codon. What I have now is testLine = scan.nextLine();&lt;/p&gt; &lt;pre&gt;&lt;code&gt;AGATCTGTTCTCTAAACGAACTTTAAAATCTGTGTGGCTGTCACTCGGCTGCATGCTTAG &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;I can&amp;#39;t quite figure out which one to use. I can&amp;#39;t see how I would make it every 3rd character?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Cowboys44rox&quot;&gt; /u/Cowboys44rox &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5ofr/substring_issue_java/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5ofr/substring_issue_java/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj5ofr</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj5ofr/substring_issue_java/" />
+        <updated>2021-04-03T10:05:15+00:00</updated>
+        <published>2021-04-03T10:05:15+00:00</published>
+        <title>Substring Issue Java.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Miserable-Prompt-998</name>
+            <uri>https://www.reddit.com/user/Miserable-Prompt-998</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Specifically mid to advanced concepts&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Miserable-Prompt-998&quot;&gt; /u/Miserable-Prompt-998 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj2sjr/important_things_to_know_when_going_from_c_to/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj2sjr/important_things_to_know_when_going_from_c_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj2sjr</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj2sjr/important_things_to_know_when_going_from_c_to/" />
+        <updated>2021-04-03T06:13:01+00:00</updated>
+        <published>2021-04-03T06:13:01+00:00</published>
+        <title>Important things to know when going from C# to Python?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/__Loot__</name>
+            <uri>https://www.reddit.com/user/__Loot__</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m reading the documentation for pyautogui and i don&amp;#39;t see away to re-bind keys. am i missing something? Any body know how its done.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/__Loot__&quot;&gt; /u/__Loot__ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj8qte/help_converting_a_ahk_script_to_pyautogui/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj8qte/help_converting_a_ahk_script_to_pyautogui/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj8qte</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj8qte/help_converting_a_ahk_script_to_pyautogui/" />
+        <updated>2021-04-03T13:42:45+00:00</updated>
+        <published>2021-04-03T13:42:45+00:00</published>
+        <title>Help converting a ahk script to pyautogui</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Lemtale</name>
+            <uri>https://www.reddit.com/user/Lemtale</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I&amp;#39;m creating an application and have a create user journey. I have code in the controller to create an random token of n length. This seems like useful reusable code and not necessarily tied to the user creation journey.&lt;/p&gt; &lt;p&gt;My layers are UI, Infrastructure, and Core. I was thinking to create a new layer for this &amp;#39;helper&amp;#39; function (and most likely others in the future), which layer would you put it in or would you create a service for this instead?&lt;/p&gt; &lt;p&gt;Any help is appreciated!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Lemtale&quot;&gt; /u/Lemtale &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5ehu/which_layer_should_a_helper_method_go_in_webapi/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj5ehu/which_layer_should_a_helper_method_go_in_webapi/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj5ehu</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj5ehu/which_layer_should_a_helper_method_go_in_webapi/" />
+        <updated>2021-04-03T09:42:56+00:00</updated>
+        <published>2021-04-03T09:42:56+00:00</published>
+        <title>Which layer should a 'helper' method go in? (WebAPI, Onion Architecture)</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/thetruth495</name>
+            <uri>https://www.reddit.com/user/thetruth495</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Can someone please explain to me why calculus is a prerequisite to CS. How is it applicable in real world situations?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/thetruth495&quot;&gt; /u/thetruth495 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj88gw/can_someone_please_explain/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj88gw/can_someone_please_explain/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj88gw</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj88gw/can_someone_please_explain/" />
+        <updated>2021-04-03T13:11:49+00:00</updated>
+        <published>2021-04-03T13:11:49+00:00</published>
+        <title>Can someone please explain...</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/lapurita</name>
+            <uri>https://www.reddit.com/user/lapurita</uri>
+        </author>
+        <category term="learnprogramming" label="r/learnprogramming"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For over a year I&amp;#39;ve been programming daily without any problems in my wrists, but all of a sudden 10 days ago I started to feel pain in my right arm, from the elbow down to the wrist. I then coded with my left hand only for the following 2 days, just to develop the exact same pain in my left arm.&lt;/p&gt; &lt;p&gt;I&amp;#39;m basically unable to code now 10 days later. (it&amp;#39;s possible I guess but it&amp;#39;s not pleasant). Anyone here that have went through something similar?&lt;/p&gt; &lt;p&gt;Something about this feels really odd, especially the fact that I developed the same injury in both arms at basically the same time?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lapurita&quot;&gt; /u/lapurita &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj81fn/rsi_out_of_nowhere/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/mj81fn/rsi_out_of_nowhere/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_mj81fn</id>
+        <link href="https://www.reddit.com/r/learnprogramming/comments/mj81fn/rsi_out_of_nowhere/" />
+        <updated>2021-04-03T13:00:27+00:00</updated>
+        <published>2021-04-03T13:00:27+00:00</published>
+        <title>RSI out of nowhere!</title>
+    </entry>
+</feed>
